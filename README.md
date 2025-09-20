@@ -8,6 +8,10 @@ Sou **Desenvolvedor Web Fullstack**, com experiência no desenvolvimento e manut
 - 🛠️ Conhecimentos adicionais em redes e infraestrutura, apoiando times em demandas técnicas mais amplas.  
 - 📈 Busco sempre evoluir, aprendendo novas tecnologias e aplicando boas práticas de programação.  
 
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lhbTZma2NrZ281ZWNtMDFybmlyNWMyemhibmtjamN4NWUwY3BrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="400"/>
+</div>
+
 ---
 
 ### 🛠️ Tecnologias que mais utilizo
@@ -56,9 +60,3 @@ Sou **Desenvolvedor Web Fullstack**, com experiência no desenvolvimento e manut
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lhbTZma2NrZ281ZWNtMDFybmlyNWMyemhibmtjamN4NWUwY3BrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="400"/>
-</div>
