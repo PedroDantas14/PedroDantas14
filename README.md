@@ -29,7 +29,7 @@ Sou **Desenvolvedor Web Fullstack**, com experiência no desenvolvimento e manut
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub (Pepositórios Públicos)
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroDantas14&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDantas14&layout=compact&langs_count=8&theme=radical"/>
