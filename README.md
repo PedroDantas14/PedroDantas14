@@ -37,11 +37,6 @@ Sou **Desenvolvedor Web Fullstack**, com experiência no desenvolvimento e manut
   ![Estatísticas de contribuição](https://github-readme-activity-graph.vercel.app/graph?username=PedroDantas14&theme=redical&hide_border=true&area=true)
 </div>
 
-### 📈 Estatísticas adicionais
-- **Total de commits:** [![Total de commits](https://badges.pufler.dev/commits/all/PedroDantas14?color=blue)](https://badges.pufler.dev)
-- **Repositórios criados:** [![Repositórios](https://badges.pufler.dev/repos/PedroDantas14?color=blue)](https://badges.pufler.dev)
-- **Tempo no GitHub:** [![Anos no GitHub](https://badges.pufler.dev/years/PedroDantas14?color=blue)](https://badges.pufler.dev)>
-
 ---
 
 ### 🌍 Onde me encontrar
