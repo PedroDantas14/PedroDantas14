@@ -5,8 +5,9 @@
     <td width="60%">
       
       ### 👨‍💻 Sobre mim
-      Sou **Desenvolvedor Full Stack**, apaixonado por tecnologia e inovação.  
-      Sempre buscando aprender, evoluir e compartilhar conhecimento.  
+      - Desenvolvedor Full Stack  
+      - Apaixonado por tecnologia e inovação  
+      - Sempre aprendendo e compartilhando conhecimento
 
       ### 🌍 Onde me encontrar
       [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-alves-desenvolvedor)  
@@ -18,7 +19,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 
