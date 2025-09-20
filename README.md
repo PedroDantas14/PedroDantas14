@@ -34,7 +34,12 @@ Sou **Desenvolvedor Web Fullstack**, com experiência no desenvolvimento e manut
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroDantas14&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDantas14&layout=compact&langs_count=8&theme=radical"/>
   
-  ![Estatísticas de contribuição](https://github-readme-activity-graph.vercel.app/graph?username=PedroDantas14&theme=redical&hide_border=true&area=true)
+### 📈 Minhas Métricas
+
+![Commits](https://img.shields.io/badge/Total%20Commits-500%2B-blue)
+![PRs](https://img.shields.io/badge/Pull%20Requests-30%2B-green)
+![Repositórios](https://img.shields.io/badge/Repositórios%20Ativos-10%2B-orange)
+![Experiência](https://img.shields.io/badge/Anos%20de%20Código-3%2B-yellow)
 </div>
 
 ---
