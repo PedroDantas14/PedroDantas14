@@ -5,13 +5,12 @@
     <td width="60%">
       
       ### 👨‍💻 Sobre mim
-      - Desenvolvedor Full Stack  
-      - Apaixonado por tecnologia e inovação  
-      - Sempre aprendendo e compartilhando conhecimento  
+      Sou **Desenvolvedor Full Stack**, apaixonado por tecnologia e inovação.  
+      Sempre buscando aprender, evoluir e compartilhar conhecimento.  
 
       ### 🌍 Onde me encontrar
       [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-alves-desenvolvedor)  
-      [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/srpedro12_/?igsh=ajl0NW4xenFtdnBo)  
+      [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/srpedro12_/)
 
     </td>
     <td width="40%" align="center">
@@ -19,6 +18,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
