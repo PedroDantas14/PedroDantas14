@@ -45,11 +45,14 @@ Sou **Desenvolvedor Web Fullstack**, com experiência no desenvolvimento e manut
   <a href="https://www.instagram.com/srpedro12_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:alves.dantas144@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lhbTZma2NrZ281ZWNtMDFybmlyNWMyemhibmtjamN4NWUwY3BrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="400"/>
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lhbTZma2NrZ281ZWNtMDFybmlyNWMyemhibmtjamN4NWUwY3BrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="400"/>
+</div>
+
