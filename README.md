@@ -36,8 +36,6 @@ Sou **Desenvolvedor Web Fullstack**, com experiência no desenvolvimento e manut
 ### 📊 Estatísticas do GitHub (Pepositórios Públicos e privados)
 <div align="center">
   
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDantas14&layout=compact&langs_count=8&theme=radical"/>
-  
 ### 📈 Minhas Métricas
 
 ![Commits](https://img.shields.io/badge/Total%20Commits-500%2B-blue)
