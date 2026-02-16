@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, seja bem-vindo(a) ao meu perfil!</h1>
 
 ### 🚀 Sobre mim
-Sou **Desenvolvedor Web Fullstack**, com experiência no desenvolvimento e manutenção de sistemas e aplicações web e mobile, atuando em todo o ciclo de vida dos projetos — desde a concepção até a entrega final.  
+Sou **Desenvolvedor Fullstack**, com experiência no desenvolvimento e manutenção de sistemas e aplicações web e mobile, atuando em todo o ciclo de vida dos projetos — desde a concepção até a entrega final.  
 
 - 💻 Atuo no **Front-end** e **Back-end**, sempre com foco em qualidade, escalabilidade e performance.  
 - 📱 Experiência também no **desenvolvimento mobile**.  
